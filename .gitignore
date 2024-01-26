@@ -6,3 +6,4 @@
 /.idea/shardingsphere-jdbc-example.iml
 /.idea/vcs.xml
 /docs/.vuepress/dist/
+/.deploy/
