@@ -1,0 +1,26 @@
+{
+  "name": "shardingsphere-jdbc-example",
+  "version": "1.0.0",
+  "description": "shardingsphere-jdbc-example",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+     "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunkier/shardingsphere-jdbc-example.git"
+  },
+  "keywords": [
+    "shardingsphere"
+  ],
+  "author": "hunkier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hunkier/shardingsphere-jdbc-example/issues"
+  },
+  "homepage": "https://github.com/hunkier/shardingsphere-jdbc-example#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  }
+}
