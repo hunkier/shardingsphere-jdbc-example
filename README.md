@@ -1,11 +1,10 @@
 
 #### 项目介绍
 
-shardingsphere-jdbc 使用实战
+shardingsphere-jdbc 实战，记录 sharding-jdbc 使用配置记录。
 
-### 访问地址
 
-1.文档说明：[https://shardingsphere-jdbc-example.hunkier.cn](https://shardingsphere-jdbc-example.hunkier.cn/)
+1.文档：[https://shardingsphere-jdbc-example.hunkier.cn](https://shardingsphere-jdbc-example.hunkier.cn/)
 
 2.github-pages：[https://hunkier.github.io/shardingsphere-jdbc-example/](https://hunkier.github.io/shardingsphere-jdbc-example/)
 
