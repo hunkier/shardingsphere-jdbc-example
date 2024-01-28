@@ -1,9 +1,6 @@
 /node_modules/
 /yarn.lock
-/.idea/.gitignore
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/shardingsphere-jdbc-example.iml
-/.idea/vcs.xml
 /docs/.vuepress/dist/
 /.deploy/
+/.idea/
+/readwrite-splitting--spring-boot-starter-mybatis--standalone--local/target/

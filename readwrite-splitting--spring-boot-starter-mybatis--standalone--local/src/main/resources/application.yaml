@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driver-class-name: org.apache.shardingsphere.driver.ShardingSphereDriver
+    url: jdbc:shardingsphere:classpath:config-h2.yaml
+
+mybatis:
+  mapper-locations: classpath*:mappers/*Mapper.xml
